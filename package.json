@@ -1,0 +1,14 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map scss/style.scss scss/main.css"
+  },
+  "author": "ramesh timalsina",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}
